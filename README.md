@@ -1,4 +1,4 @@
-# Chinese-Dark-Chess
+# Chinese Dark Chess
 # 中国象棋暗棋
 C&EasyX
 
